@@ -16,7 +16,7 @@ export default function Layout({ children }) {
             ¿Qué es el IMC?
           </a>
           <a
-            href="/calculator"
+            href="calculator"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
             ¡Calculemos tu IMC!
